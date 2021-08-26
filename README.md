@@ -1,8 +1,8 @@
-# Halo semua! 
+#  Hi! 👋 I'm Briva Bagus Prasetyo.
 
-My name is **Briva Bagus Prasetyo**.
 
-I'm **Full Stack Web Developer**.  I've enjoyed JavaScript, PHP and make it the main language in creating a project.
+
+I'm **Full Stack Web Developer**.  I've enjoyed **JavaScript, PHP** and make it the main language in creating a project.
 
 
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/briva-bagus-prasetyo-5281551b3/).
